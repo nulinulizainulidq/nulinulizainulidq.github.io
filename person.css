@@ -1,0 +1,18 @@
+body{margin:0px;padding:0px;background-image:url(images/main.jpg);width:800px;margin:0 auto;
+border:12px solid rgba(300,300,300,0.25);color:#576973;background-attachment:fixed;background-color:#fff;}
+ul{list-style-type:none;margin:0px;padding:0px;}
+#main{margin-top:0px;background:url(images/mainbk.png)-8px;border:2px solid #fff;}
+.topmenu ul{width:800px;}
+.topmenu ul li{width:200px;height:60px;float:left;text-align:center;line-height:60px;background:#a1eeef;}
+.topmenu a{text-decoration:none;display:block;}
+.topmenu a:hover{font-weight:bold;background:pink;}
+.bottom{width:800px;background:#a1eeef;height:41px;}
+.bottom .img1{width:800px;margin-left:400px;}
+#direction .img1{float:left}
+#girl .headimg{float:right;}
+#div1 ul{list-style-type:none;}
+#div1 ul li{float:left;}
+#home h1{text-align:center;color:#ff66ff;font-family:Arial}
+.personinfo h3{text-align:center;}
+.personinfo h4{text-align:center;color:red;}
+.personinfo p{text-align:center;}
